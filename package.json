@@ -1,0 +1,22 @@
+{
+  "name": "pr1",
+  "version": "1.0.0",
+  "description": "Introduccion a la pr1 de SISDIS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoUni14/PRACTICA_1.git"
+  },
+  "keywords": [
+    "sisdis"
+  ],
+  "author": "Nicolás Gómez y David Aresté",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicoUni14/PRACTICA_1/issues"
+  },
+  "homepage": "https://github.com/NicoUni14/PRACTICA_1#readme"
+}
